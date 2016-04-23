@@ -1,0 +1,21 @@
+{
+  "name": "blog",
+  "description": "",
+  "main": "",
+  "authors": [
+    "451316833@qq.com <lll19870216>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/muyuanluodi/blog",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
