@@ -5,6 +5,7 @@
  */
 
 var app = require('../app');
+//日志记录器 通过修改DEBUG环境变量来改变日志的输出
 var debug = require('debug')('blog:server');
 var http = require('http');
 
